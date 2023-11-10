@@ -1,0 +1,18 @@
+{
+  "name": "react-interview-q2",
+  "version": "1.0.0",
+  "description": "react based interview question 2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterRyd3l/react-interview-q2.git"
+  },
+  "author": "James Duan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasterRyd3l/react-interview-q2/issues"
+  },
+  "homepage": "https://github.com/MasterRyd3l/react-interview-q2#readme",
+  "devDependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
